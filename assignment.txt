@@ -1,0 +1,25 @@
+1.) Write a function named say_hello that prints "Hello, World!" when called.
+
+def say_hello():
+    # Your code here
+
+# Call the function
+say_hello()
+
+2.)Create a function called add_numbers that takes two numbers as arguments and returns their sum.
+
+def add_numbers(num1, num2):
+    # Your code here
+
+# Example usage:
+result = add_numbers(5, 3)
+print(result)  # Should print 8
+
+3.)Write a function named is_even that takes a number and returns True if the number is even, and False otherwise.
+
+def is_even(number):
+    # Your code here
+
+# Example usage:
+print(is_even(4))  # Should print True
+print(is_even(7))  # Should print False
